@@ -1,0 +1,13 @@
+/home/naya0832/Proj0421/bin/Debug/netcoreapp3.1/Proj0421
+/home/naya0832/Proj0421/bin/Debug/netcoreapp3.1/Proj0421.deps.json
+/home/naya0832/Proj0421/bin/Debug/netcoreapp3.1/Proj0421.runtimeconfig.json
+/home/naya0832/Proj0421/bin/Debug/netcoreapp3.1/Proj0421.runtimeconfig.dev.json
+/home/naya0832/Proj0421/bin/Debug/netcoreapp3.1/Proj0421.dll
+/home/naya0832/Proj0421/bin/Debug/netcoreapp3.1/Proj0421.pdb
+/home/naya0832/Proj0421/obj/Debug/netcoreapp3.1/Proj0421.csprojAssemblyReference.cache
+/home/naya0832/Proj0421/obj/Debug/netcoreapp3.1/Proj0421.AssemblyInfoInputs.cache
+/home/naya0832/Proj0421/obj/Debug/netcoreapp3.1/Proj0421.AssemblyInfo.cs
+/home/naya0832/Proj0421/obj/Debug/netcoreapp3.1/Proj0421.csproj.CoreCompileInputs.cache
+/home/naya0832/Proj0421/obj/Debug/netcoreapp3.1/Proj0421.dll
+/home/naya0832/Proj0421/obj/Debug/netcoreapp3.1/Proj0421.pdb
+/home/naya0832/Proj0421/obj/Debug/netcoreapp3.1/Proj0421.genruntimeconfig.cache
